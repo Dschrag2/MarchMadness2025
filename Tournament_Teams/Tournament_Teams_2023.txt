@@ -1,0 +1,68 @@
+Alabama
+Arizona
+Arizona State
+Arkansas
+Auburn
+Baylor
+Boise State
+Colgate
+College of Charleston
+Connecticut
+Creighton
+Drake
+Duke
+FDU
+Florida Atlantic
+Furman
+Gonzaga
+Grand Canyon
+Houston
+Howard
+Illinois
+Indiana
+Iona
+Iowa
+Iowa State
+Kansas
+Kansas State
+Kennesaw State
+Kent State
+Kentucky
+Louisiana
+Marquette
+Maryland
+Memphis
+Miami (FL)
+Michigan State
+Mississippi State
+Missouri
+Montana State
+NC State
+Nevada
+Northern Kentucky
+Northwestern
+Oral Roberts
+Penn State
+Pittsburgh
+Princeton
+Providence
+Purdue
+Saint Mary's (CA)
+San Diego State
+Southeast Missouri State
+Southern California
+TCU
+Tennessee
+Texas
+Texas A&M
+Texas A&M-Corpus Christi
+Texas Southern
+UC Santa Barbara
+UCLA
+UNC Asheville
+Utah State
+Vermont
+Virginia
+Virginia Commonwealth
+West Virginia
+Xavier

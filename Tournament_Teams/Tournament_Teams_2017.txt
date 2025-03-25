@@ -1,0 +1,68 @@
+Arizona
+Arkansas
+Baylor
+Bucknell
+Butler
+Cincinnati
+Creighton
+Dayton
+Duke
+East Tennessee State
+Florida
+Florida Gulf Coast
+Florida State
+Gonzaga
+Iona
+Iowa State
+Jacksonville State
+Kansas
+Kansas State
+Kent State
+Kentucky
+Louisville
+Marquette
+Maryland
+Miami (FL)
+Michigan
+Michigan State
+Middle Tennessee
+Minnesota
+Mount St. Mary's
+Nevada
+New Mexico State
+New Orleans
+North Carolina
+North Carolina Central
+North Dakota
+Northern Kentucky
+Northwestern
+Notre Dame
+Oklahoma State
+Oregon
+Princeton
+Providence
+Purdue
+Rhode Island
+Saint Mary's (CA)
+Seton Hall
+South Carolina
+South Dakota State
+Southern California
+Southern Methodist
+Texas Southern
+Troy
+UC Davis
+UCLA
+UNC Wilmington
+Vanderbilt
+Vermont
+Villanova
+Virginia
+Virginia Commonwealth
+Virginia Tech
+Wake Forest
+West Virginia
+Wichita State
+Winthrop
+Wisconsin
+Xavier

@@ -1,0 +1,68 @@
+Alabama
+Arizona
+Arizona State
+Arkansas
+Auburn
+Bucknell
+Buffalo
+Butler
+Cal State Fullerton
+Cincinnati
+Clemson
+College of Charleston
+Creighton
+Davidson
+Duke
+Florida
+Florida State
+Georgia State
+Gonzaga
+Houston
+Iona
+Kansas
+Kansas State
+Kentucky
+Lipscomb
+Long Island University
+Loyola (IL)
+Marshall
+Maryland-Baltimore County
+Miami (FL)
+Michigan
+Michigan State
+Missouri
+Montana
+Murray State
+NC State
+Nevada
+New Mexico State
+North Carolina
+North Carolina Central
+Ohio State
+Oklahoma
+Pennsylvania
+Providence
+Purdue
+Radford
+Rhode Island
+San Diego State
+Seton Hall
+South Dakota State
+St. Bonaventure
+Stephen F. Austin
+Syracuse
+TCU
+Tennessee
+Texas
+Texas A&M
+Texas Southern
+Texas Tech
+UCLA
+UNC Greensboro
+Villanova
+Virginia
+Virginia Tech
+West Virginia
+Wichita State
+Wright State
+Xavier

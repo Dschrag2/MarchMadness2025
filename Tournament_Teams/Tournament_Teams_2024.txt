@@ -1,0 +1,68 @@
+Akron
+Alabama
+Arizona
+Auburn
+Baylor
+Boise State
+Brigham Young
+Clemson
+Colgate
+College of Charleston
+Colorado
+Colorado State
+Connecticut
+Creighton
+Dayton
+Drake
+Duke
+Duquesne
+Florida
+Florida Atlantic
+Gonzaga
+Grambling
+Grand Canyon
+Houston
+Howard
+Illinois
+Iowa State
+James Madison
+Kansas
+Kentucky
+Long Beach State
+Longwood
+Marquette
+McNeese State
+Michigan State
+Mississippi State
+Montana State
+Morehead State
+NC State
+Nebraska
+Nevada
+New Mexico
+North Carolina
+Northwestern
+Oakland
+Oregon
+Purdue
+Saint Mary's (CA)
+Saint Peter's
+Samford
+San Diego State
+South Carolina
+South Dakota State
+Stetson
+TCU
+Tennessee
+Texas
+Texas A&M
+Texas Tech
+UAB
+Utah State
+Vermont
+Virginia
+Wagner
+Washington State
+Western Kentucky
+Wisconsin
+Yale

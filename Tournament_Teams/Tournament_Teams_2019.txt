@@ -1,0 +1,68 @@
+Abilene Christian
+Arizona State
+Auburn
+Baylor
+Belmont
+Bradley
+Buffalo
+Cincinnati
+Colgate
+Duke
+FDU
+Florida
+Florida State
+Gardner-Webb
+Georgia State
+Gonzaga
+Houston
+Iona
+Iowa
+Iowa State
+Kansas
+Kansas State
+Kentucky
+Liberty
+Louisiana State
+Louisville
+Marquette
+Maryland
+Michigan
+Michigan State
+Minnesota
+Mississippi
+Mississippi State
+Montana
+Murray State
+Nevada
+New Mexico State
+North Carolina
+North Carolina Central
+North Dakota State
+Northeastern
+Northern Kentucky
+Ohio State
+Oklahoma
+Old Dominion
+Oregon
+Prairie View
+Purdue
+Saint Louis
+Saint Mary's (CA)
+Seton Hall
+St. John's (NY)
+Syracuse
+Temple
+Tennessee
+Texas Tech
+UC Irvine
+UCF
+Utah State
+Vermont
+Villanova
+Virginia
+Virginia Commonwealth
+Virginia Tech
+Washington
+Wisconsin
+Wofford
+Yale
